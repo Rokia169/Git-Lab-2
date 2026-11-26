@@ -1,0 +1,1 @@
+echo "# Git Lab 2" > README.md
